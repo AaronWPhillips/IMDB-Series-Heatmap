@@ -5,7 +5,7 @@ import seaborn
 import matplotlib.pyplot as plt
 
 omdb_api = "http://www.omdbapi.com/"
-omdb_api_key = "8d879c8b"
+omdb_api_key = ""
 
 def fetch_ratings_from_imdb(omdb_id):
    ratings = []
